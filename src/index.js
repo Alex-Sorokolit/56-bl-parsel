@@ -1,1 +1,1 @@
-
+import './js/infinite-scroll';
